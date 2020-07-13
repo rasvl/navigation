@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_Home"
+        android:icon="@drawable/ic_home"
+        android:title="خانه"
+    />
+
+    <item
+        android:id="@+id/nav_video"
+        android:icon="@drawable/ic_video"
+        android:title="فعالیتها"
+        />
+
+    <item
+        android:id="@+id/nav_project"
+        android:icon="@drawable/ic_project"
+        android:title="درخواست پروژه"
+        />
+
+    <item
+        android:id="@+id/nav_abute"
+        android:icon="@drawable/ic_abute"
+        android:title="درباره ما"
+        />
+
+</menu>
